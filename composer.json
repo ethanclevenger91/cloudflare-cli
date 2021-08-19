@@ -16,5 +16,12 @@
             "email": "ethan@sternerstuff.dev",
             "homepage": "https://sternerstuff.dev"
         }
-    ]
+    ],
+    "support": {
+		"issues": "https://github.com/sterner-stuff/cloudflare-cli/issues",
+		"source": "https://github.com/sterner-stuff/cloudflare-cli"
+	},
+    "autoload": {
+        "files": [ "cli.php" ]
+    }
 }
