@@ -1,1 +1,20 @@
-
+{
+    "name": "forumone/cloudflare-cli",
+    "type": "wordpress-plugin",
+    "description": "Provides a command line interface to the WordPress Cloudflare plugin, for performing cache purge actions.",
+    "license": "GPLv2 or later",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Elvis Morales",
+            "homepage": "https://elvismdev.io"
+        },
+        {
+            "name": "Ethan Clevenger",
+            "email": "ethan@sternerstuff.dev",
+            "homepage": "https://sternerstuff.dev"
+        }
+    ]
+}
