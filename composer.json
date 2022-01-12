@@ -18,8 +18,8 @@
         }
     ],
     "support": {
-		"issues": "https://github.com/sterner-stuff/cloudflare-cli/issues",
-		"source": "https://github.com/sterner-stuff/cloudflare-cli"
+		"issues": "https://github.com/sterner-stuff/cloudflare-wp-cli/issues",
+		"source": "https://github.com/sterner-stuff/cloudflare-wp-cli"
 	},
     "autoload": {
         "files": [ "cli.php" ]
