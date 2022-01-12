@@ -34,7 +34,6 @@ wp package install https://github.com/sterner-stuff/cloudflare-cli
 ### Using Composer
 
 ```bash
-composer config repositories.cloudflare-cli '{ "type": "vcs", "url": "git@github.com:sterner-stuff/cloudflare-cli.git" }'
 composer require sterner-stuff/cloudflare-cli
 ```
 
