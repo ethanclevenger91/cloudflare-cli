@@ -28,12 +28,12 @@ This package depends on the `\CF\WordPress\Hooks` class from the [Cloudflare for
 ### Via WP-CLI
 
 ```bash
-wp package install https://github.com/sterner-stuff/cloudflare-cli
+wp package install https://github.com/sterner-stuff/cloudflare-wp-cli
 ```
 
 ### Using Composer
 
 ```bash
-composer require sterner-stuff/cloudflare-cli
+composer require sterner-stuff/cloudflare-wp-cli
 ```
 
