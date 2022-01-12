@@ -1,5 +1,5 @@
 {
-    "name": "sterner-stuff/cloudflare-cli",
+    "name": "sterner-stuff/cloudflare-wp-cli",
     "type": "wp-cli-package",
     "description": "Provides a command line interface to the WordPress Cloudflare plugin, for performing cache purge actions.",
     "license": "GPLv2 or later",
